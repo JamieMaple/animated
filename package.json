@@ -1,0 +1,8 @@
+{
+  "name": "animated",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JamieMaple/animated.git",
+  "author": "JamieMaple <jamiemaple007@gmail.com>",
+  "license": "MIT"
+}
