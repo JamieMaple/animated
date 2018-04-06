@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:JamieMaple/animated.git",
+  "scripts": {
+    "start": "parcel index.html --open"
+  },
   "author": "JamieMaple <jamiemaple007@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@tweenjs/tween.js": "^17.2.0"
+  }
 }
