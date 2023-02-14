@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-14T08:58:20.382Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="UbnCrZ5_sZgpJprFQhLw" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-14T09:10:46.551Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="bjcd7BEzqf-2LfKQAV8n" version="20.8.20" type="github">
   <diagram name="Page-1" id="pAexvWZPMWYGW5b6QF1o">
-    <mxGraphModel dx="2258" dy="1418" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2942" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,59 @@
         </mxCell>
         <mxCell id="_bihI_Zap63-RLcw_ckO-5" value="company.company_registration_area" style="text;strokeColor=none;fillColor=none;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="1750" y="690" width="550" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-6" value="company.industry_type" style="text;strokeColor=none;fillColor=none;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="920" width="550" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-7" value="company.business_region" style="text;strokeColor=none;fillColor=none;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1770" y="1140" width="550" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-9" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;div data-docx-has-block-data=&quot;true&quot; data-page-id=&quot;PF9rd9HtzoyikNxCLb8csWdJnud&quot;&gt;&lt;div class=&quot;image-uploaded gallery old-record-id-OQeGdyKI2oISE0xE4T0cOtKInel&quot; data-ace-gallery-json=&quot;{&amp;quot;items&amp;quot;:[{&amp;quot;uuid&amp;quot;:&amp;quot;988afd6d-55fb-4b0a-b976-e0188ae05b8e&amp;quot;,&amp;quot;height&amp;quot;:1728,&amp;quot;width&amp;quot;:1436,&amp;quot;currHeight&amp;quot;:1728,&amp;quot;currWidth&amp;quot;:1436,&amp;quot;natrualHeight&amp;quot;:1728,&amp;quot;natrualWidth&amp;quot;:1436,&amp;quot;pluginName&amp;quot;:&amp;quot;imageUpload&amp;quot;,&amp;quot;scale&amp;quot;:1,&amp;quot;src&amp;quot;:&amp;quot;https%3A%2F%2Finternal-api-drive-stream.feishu.cn%2Fspace%2Fapi%2Fbox%2Fstream%2Fdownload%2Fpreview%2FboxcnAlkd1EMWTfGd9NMVwF1atg%2F%3Fpreview_type%3D16&amp;quot;,&amp;quot;file_token&amp;quot;:&amp;quot;boxcnAlkd1EMWTfGd9NMVwF1atg&amp;quot;,&amp;quot;image_type&amp;quot;:&amp;quot;image/png&amp;quot;,&amp;quot;size&amp;quot;:164252,&amp;quot;comments&amp;quot;:[]}]}&quot; data-type=&quot;image&quot; style=&quot;text-align:center&quot;&gt;&lt;img data-height=&quot;1728&quot; data-width=&quot;1436&quot; data-src=&quot;https://internal-api-drive-stream.feishu.cn/space/api/box/stream/download/all/boxcnAlkd1EMWTfGd9NMVwF1atg/?mount_node_token=OQeGdyKI2oISE0xE4T0cOtKInel&amp;amp;mount_point=docx_image&quot; data-suite=&quot;eyJmaWxlVG9rZW4iOiJib3hjbkFsa2QxRU1XVGZHZDlOTVZ3RjFhdGciLCJvYmpUeXBlIjoiZG9jeCIsIm9ialRva2VuIjoiT1FlR2R5S0kyb0lTRTB4RTRUMGNPdEtJbmVsIiwib3JpZ2luU3JjIjoiaHR0cHM6Ly9pbnRlcm5hbC1hcGktZHJpdmUtc3RyZWFtLmZlaXNodS5jbi9zcGFjZS9hcGkvYm94L3N0cmVhbS9kb3dubG9hZC9wcmV2aWV3L2JveGNuQWxrZDFFTVdUZkdkOU5NVndGMWF0Zy8/cHJldmlld190eXBlPTE2In0=&quot; data-snapshot=&quot;eyJ0eXBlIjoiaW1hZ2UiLCJjaGlsZHJlbiI6W10sImNvbW1lbnRzIjpbXSwiYXV0aG9yIjoiNjc2OTAwOTE1MjQ5Nzg2MDg3MiIsImltYWdlIjp7InNyYyI6IiIsInRva2VuIjoiYm94Y25BbGtkMUVNV1RmR2Q5Tk1Wd0YxYXRnIiwibWltZVR5cGUiOiJpbWFnZS9wbmciLCJzaXplIjoxNjQyNTIsIm5hbWUiOiJpbWFnZS5wbmciLCJzY2FsZSI6MSwid2lkdGgiOjE0MzYsImhlaWdodCI6MTcyOCwiYWxpZ24iOiJjZW50ZXIifSwiYWxpZ24iOiJjZW50ZXIiLCJwYXJlbnRfaWQiOiJQRjlyZDlIdHpveWlrTnhDTGI4Y3NXZEpudWQifQ==&quot; data-single-block=&quot;true&quot; src=&quot;https://bytedance.feishu.cn/space/api/box/stream/download/asynccode/?code=MDliMTg0NjhkZmViMWFlMGJjYzhlMmM1Y2VmZmU4MmRfVmFPelRrRUV3RlY5SHJoT011NkxkbGFuRER5U2VES2hfVG9rZW46Ym94Y25BbGtkMUVNV1RmR2Q5Tk1Wd0YxYXRnXzE2NzYzNjUyOTk6MTY3NjM2ODg5OV9WNA&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/record&quot; data-lark-record-data=&quot;{&amp;quot;isCut&amp;quot;:false,&amp;quot;rootId&amp;quot;:&amp;quot;PF9rd9HtzoyikNxCLb8csWdJnud&amp;quot;,&amp;quot;parentId&amp;quot;:&amp;quot;PF9rd9HtzoyikNxCLb8csWdJnud&amp;quot;,&amp;quot;blockIds&amp;quot;:[46],&amp;quot;recordIds&amp;quot;:[&amp;quot;OQeGdyKI2oISE0xE4T0cOtKInel&amp;quot;],&amp;quot;recordMap&amp;quot;:{&amp;quot;OQeGdyKI2oISE0xE4T0cOtKInel&amp;quot;:{&amp;quot;id&amp;quot;:&amp;quot;OQeGdyKI2oISE0xE4T0cOtKInel&amp;quot;,&amp;quot;snapshot&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;image&amp;quot;,&amp;quot;children&amp;quot;:[],&amp;quot;comments&amp;quot;:[],&amp;quot;author&amp;quot;:&amp;quot;6769009152497860872&amp;quot;,&amp;quot;image&amp;quot;:{&amp;quot;src&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;token&amp;quot;:&amp;quot;boxcnAlkd1EMWTfGd9NMVwF1atg&amp;quot;,&amp;quot;mimeType&amp;quot;:&amp;quot;image/png&amp;quot;,&amp;quot;size&amp;quot;:164252,&amp;quot;name&amp;quot;:&amp;quot;image.png&amp;quot;,&amp;quot;scale&amp;quot;:1,&amp;quot;width&amp;quot;:1436,&amp;quot;height&amp;quot;:1728,&amp;quot;align&amp;quot;:&amp;quot;center&amp;quot;},&amp;quot;align&amp;quot;:&amp;quot;center&amp;quot;,&amp;quot;parent_id&amp;quot;:&amp;quot;PF9rd9HtzoyikNxCLb8csWdJnud&amp;quot;}},&amp;quot;PF9rd9HtzoyikNxCLb8csWdJnud&amp;quot;:{&amp;quot;id&amp;quot;:&amp;quot;PF9rd9HtzoyikNxCLb8csWdJnud&amp;quot;,&amp;quot;snapshot&amp;quot;:{&amp;quot;type&amp;quot;:&amp;quot;page&amp;quot;,&amp;quot;parent_id&amp;quot;:&amp;quot;&amp;quot;,&amp;quot;comments&amp;quot;:null,&amp;quot;locked&amp;quot;:false,&amp;quot;hidden&amp;quot;:false,&amp;quot;author&amp;quot;:&amp;quot;6769009152497860872&amp;quot;,&amp;quot;children&amp;quot;:[&amp;quot;HmacdeqQco20swxondJcwBbGn8c&amp;quot;,&amp;quot;Iy0cd0okOoW8eKxWAZLcdIBnnwh&amp;quot;,&amp;quot;X4OedS0qkou2OYxiVMbc0mBTnfb&amp;quot;,&amp;quot;XoiWdMeEqoOeICx08HKcH1TcnNg&amp;quot;,&amp;quot;OQeGdyKI2oISE0xE4T0cOtKInel&amp;quot;,&amp;quot;SqCQdg6MuoUK8Ex0Qsxc2dofnjd&amp;quot;,&amp;quot;XOIAd26G4oKwcGxicrBcwyzLnyf&amp;quot;,&amp;quot;OoYudacsEoOigIx23SpcLPf4nxc&amp;quot;],&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;WIP 跨境收款钱包开户开发@唐琛&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0*1+3*1+e&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;abbreviation-data&amp;quot;,&amp;quot;{\&amp;quot;id\&amp;quot;:\&amp;quot;a8bc57b5-0ee3-4fa5-8d34-4e51034344de\&amp;quot;,\&amp;quot;abbr_ids\&amp;quot;:\&amp;quot;enterprise_618\&amp;quot;,\&amp;quot;is_visible\&amp;quot;:1,\&amp;quot;is_first\&amp;quot;:1}&amp;quot;],&amp;quot;1&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;6769009152497860872&amp;quot;]},&amp;quot;nextNum&amp;quot;:2}},&amp;quot;align&amp;quot;:&amp;quot;&amp;quot;}}},&amp;quot;payloadMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:46,&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;recordId&amp;quot;:&amp;quot;OQeGdyKI2oISE0xE4T0cOtKInel&amp;quot;}],&amp;quot;pasteFlag&amp;quot;:&amp;quot;cf9dea92-617f-47e7-a0c3-8f99eeea21c8&amp;quot;}&quot;&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=26;" vertex="1" parent="1">
+          <mxGeometry x="-1270" y="80" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-10" value="company.economic_type" style="text;strokeColor=none;fillColor=none;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-620" y="1200" width="550" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-11" value="company.company_registration_area" style="text;strokeColor=none;fillColor=none;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="1310" width="550" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-12" value="company.industry_type" style="text;strokeColor=none;fillColor=none;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="1420" width="550" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-13" value="company.business_region" style="text;strokeColor=none;fillColor=none;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-600" y="1534" width="550" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-14" value="attachment_list: [&lt;br&gt;{ attachment_name: BUSINESS_LICENSE, attachment_id: 附件id，上传接口返回 }&lt;br&gt;]" style="text;strokeColor=none;fillColor=none;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-890" y="400" width="990" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=26;" edge="1" parent="1" source="_bihI_Zap63-RLcw_ckO-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-170" y="685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-15" value="点击后跳转链接，变化&lt;br&gt;location" style="text;strokeColor=none;fillColor=default;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="640" width="270" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-18" value="company.cert_no" style="text;strokeColor=none;fillColor=none;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="750" width="550" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-19" value="company.company_name" style="text;strokeColor=none;fillColor=none;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="790" width="550" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-20" value="company.legal_person: { legal_person_name, certificate, resident_addr }" style="text;strokeColor=none;fillColor=none;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="840" width="920" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-21" value="company.certificate.valid_begin_time" style="text;strokeColor=none;fillColor=none;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="880" width="920" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-22" value="company.certificate.valid_end_time" style="text;strokeColor=none;fillColor=none;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="920" width="920" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-23" value="company.company_registration_date" style="text;strokeColor=none;fillColor=none;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="960" width="920" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_bihI_Zap63-RLcw_ckO-24" value="company.company_addr" style="text;strokeColor=none;fillColor=none;html=1;fontSize=26;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-710" y="1040" width="920" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
